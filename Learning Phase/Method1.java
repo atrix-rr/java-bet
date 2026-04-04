@@ -14,10 +14,10 @@ class Method1
         {
             System.out.println("A is Greater");
         }
-        if(b>c || b>a)
+        if(b>c|| b>a)
         {
             System.out.println("B is Greater");
-            
+
         }    
         }
 }
